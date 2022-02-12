@@ -1,0 +1,28 @@
+body{
+  background-color: #CAF0F8;
+}
+
+hr{
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 100%;
+  align-self: baseline;
+
+}
+
+.my_photo{
+  border-radius: 100%;
+  max-width: 100px;
+  max-height: 150px;
+
+}
+
+h1{
+color: #1C658C;
+
+}
+h3{
+  color: #1C658C;
+}
