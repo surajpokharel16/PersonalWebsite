@@ -12,18 +12,10 @@ hr{
 
 }
 
-<<<<<<< HEAD
-.my_photo{
+.my_photo {
   border-radius: 100%;
   max-width: 100px;
   max-height: 150px;
-=======
-img{
-  flex-wrap: wrap;
-  border-radius: 60%;
-  height: 20%;
->>>>>>> origin/main
-
 }
 
 h1{
